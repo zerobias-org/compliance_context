@@ -18,7 +18,7 @@
 	  "reset": "npm run clean:full && npx lerna bootstrap --since --concurrency=10 --include-dependencies && npm run build"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://pkg.zerobias.org/"
   },
   "repository": {
     "type": "git",

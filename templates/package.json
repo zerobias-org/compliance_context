@@ -15,7 +15,7 @@
     "validate": "ts-node ../../../scripts/validate.ts"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://pkg.zerobias.org/"
   },
   "files": [
     "index.yml",

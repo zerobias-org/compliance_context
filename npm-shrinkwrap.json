@@ -27,7 +27,6 @@
       "resolved": "https://npm.pkg.github.com/download/@auditlogic/product-auditmation-auditmation/1.5.1/ac4d4e47219ed01fede2052610a2260db8463861",
       "integrity": "sha512-wjedNSCWgJdOv1RnSygkWmJ85mFVe8ZyQCwB3+7oM9+dcNHD5VtUTOxs7dFeWSIVxWnyBf/qrRJYuuF5fBC0tw==",
       "dev": true,
-      "license": "ISC",
       "dependencies": {
         "@auditlogic/service_category-auditlogic-soc": "latest",
         "@auditlogic/vendor-auditmation": "^1.0.8"
@@ -37,22 +36,19 @@
       "version": "1.0.17",
       "resolved": "https://npm.pkg.github.com/download/@auditlogic/service_category-auditlogic-soc/1.0.17/98ad0b9f2b05bc24a5194d81fb94fe2a95fa049a",
       "integrity": "sha512-Mv6uPT95BiAWPDeOyu/zrXe07QX5j1VU7YGYxrZUWSk6R40d70yHtt+EmIoR3zDX5Rhbq8fAuJNQB13yP1Fvhg==",
-      "dev": true,
-      "license": "ISC"
+      "dev": true
     },
     "node_modules/@auditlogic/vendor-auditmation": {
       "version": "1.1.0",
       "resolved": "https://npm.pkg.github.com/download/@auditlogic/vendor-auditmation/1.1.0/b5a76e6dc9626bfba14e307dabc29365c75da1f9",
       "integrity": "sha512-fm0qNn9RCt6FFV1urrTshM34aue4GH0uzDvxVNDZdPNvP0fb77TBMZ0bmgw2C1kCkNoYwQN8GYHU9zjUdwKAvA==",
-      "dev": true,
-      "license": "ISC"
+      "dev": true
     },
     "node_modules/@auditmation/devops-tools": {
       "version": "0.17.7",
       "resolved": "https://npm.pkg.github.com/download/@auditmation/devops-tools/0.17.7/d329c68526e933528cf5620a154b7e51c6cfa9ce",
       "integrity": "sha512-Ri+NAQ1lHlCmwD+ATwsHDM8NRcOLdfLlKFrr59P7hN0TdvwtF/TpFGg5zMEgsMA8Ts57B/o5yAk5f2qriT8BkQ==",
       "dev": true,
-      "license": "UNLICENSED",
       "dependencies": {
         "@octokit/rest": "^18.5.6",
         "yargs": "^17.1.1"
@@ -66,7 +62,6 @@
       "resolved": "https://npm.pkg.github.com/download/@auditmation/hub-core/4.4.2/dc18e669cbd59dc74cb74e91dae058679293664a",
       "integrity": "sha512-T5XiaZ7untBthTx5GKcSf+mUhHAc3PtN97pn/0uQhZZeT2lSEe8neriA5IJx01iL8ufn0fFJJMbZM0pt9BtH/w==",
       "dev": true,
-      "license": "ISC",
       "dependencies": {
         "winston": "3.2.1"
       },
@@ -82,7 +77,6 @@
       "resolved": "https://npm.pkg.github.com/download/@auditmation/module-auditmation-auditmation-portal/2.28.28/981463f047eb86bd154e03de26955bb49a9198a0",
       "integrity": "sha512-nAngdOATXTxgITcF9oGlEii/9Qp3+50bd4O8m0R8bZq0KpZ/3/aBGmtzHZlxNKixhzYzYvxgULFmSGJR+pb1Pg==",
       "dev": true,
-      "license": "UNLICENSED",
       "dependencies": {
         "@auditlogic/product-auditmation-auditmation": "^1.3.0",
         "@auditmation/hub-core": "4.4.2",
@@ -100,7 +94,6 @@
       "resolved": "https://npm.pkg.github.com/download/@auditmation/types-amazon/3.1.3/4a8bbde342588a5dc66862b90351626fa244598f",
       "integrity": "sha512-WnrdKDdaILaIwON7/xYKru3c9+Egj9gdSOUGxju2/baP4aG+GQqAfZ5c4nggHFKNjW6koyPg4IXVcfRT27Ondg==",
       "dev": true,
-      "license": "UNLICENSED",
       "peer": true
     },
     "node_modules/@auditmation/types-amazon-js": {
@@ -108,7 +101,6 @@
       "resolved": "https://npm.pkg.github.com/download/@auditmation/types-amazon-js/4.2.8/351492da82f878ae5a1936ea5c1c7e583c7cbe71",
       "integrity": "sha512-zC069u3+zdC7qKJwBImkyYOlv9+4ScVDVeDfPimbrtqcqRsNOhRQXtkEU+eVQKBfU6M6VPEIwW5CgR7lkbC2Cg==",
       "dev": true,
-      "license": "UNLICENSED",
       "peer": true,
       "dependencies": {
         "@auditmation/types-amazon": "^3.1.3"
@@ -125,15 +117,13 @@
       "version": "4.8.0",
       "resolved": "https://npm.pkg.github.com/download/@auditmation/types-core/4.8.0/04a7051bf5fd45e19806a12d1318130284b9d81c",
       "integrity": "sha512-IuRFpu2c/n6dcvmrZlyTzACEKW0R1AoCzXr5txug6He9+7Qwp2JSWRxkzqUQkI8aYFsObWF9uuq/6HoyOqE8rg==",
-      "dev": true,
-      "license": "UNLICENSED"
+      "dev": true
     },
     "node_modules/@auditmation/types-core-js": {
       "version": "4.9.5",
       "resolved": "https://npm.pkg.github.com/download/@auditmation/types-core-js/4.9.5/55765f68336830aa53b255983eed614841cf8a0e",
       "integrity": "sha512-5dQD+q7fQLVC6DE/guvTekhfx74sLYV7RrtCYhAxqUCDrNue+qrOQkkX4ys+MIh9tJxgvql+k0ZPi23LAl+ifQ==",
       "dev": true,
-      "license": "UNLICENSED",
       "dependencies": {
         "@auditmation/types-core": "^4.8.0",
         "@supercharge/promise-pool": "^2.1.0",
@@ -162,7 +152,6 @@
       "resolved": "https://npm.pkg.github.com/download/@auditmation/util-api-invoker-api/7.1.3/76bc6918b21378222a9c16ccb71f133aeabdc444",
       "integrity": "sha512-xEIrOyNxNHQvkPUzFrfa3XfFMg9u7zrOZd86U4GZ4XkBPRBg7iXMGq0If0dnEBQtCi5EnyjyC/pPVlV6cyvpUg==",
       "dev": true,
-      "license": "UNLICENSED",
       "peerDependencies": {
         "@auditmation/types-core-js": "^4.0.0",
         "axios": "^0.27.2"
@@ -173,7 +162,6 @@
       "resolved": "https://npm.pkg.github.com/download/@auditmation/util-api-invoker-isomorphic/7.1.8/e11a4c523a0e46b1c3681006887099167ff309a0",
       "integrity": "sha512-PND4yLcusoVbevSu4jMs6VSjt4QoH8IAc+GU3mdxgeINBG2IVJBnkp/tDpYgztkj54fMXnJcpjZPX6HbKcX19A==",
       "dev": true,
-      "license": "UNLICENSED",
       "dependencies": {
         "@auditmation/util-api-invoker-api": "^7.1.3",
         "form-data": "^4.0.0",
@@ -189,7 +177,6 @@
       "resolved": "https://npm.pkg.github.com/download/@auditmation/util-logger/4.0.9/b7afe077d042699a0f15ef52e63cf29d1ea3a01a",
       "integrity": "sha512-no86JOSNNlPvQJJC/OpmR7pixukUiDJ6ZXVJU+hUjBqu0j02wxGb1t0Tie0Bm60mtiHbnOz1KxeII6UEcgub2Q==",
       "dev": true,
-      "license": "UNLICENSED",
       "peer": true,
       "dependencies": {
         "winston": "3.2.1",
@@ -2262,86 +2249,6 @@
         "node": ">=10"
       }
     },
-    "node_modules/@nrwl/nx-darwin-arm64": {
-      "version": "15.9.7",
-      "resolved": "https://registry.npmjs.org/@nrwl/nx-darwin-arm64/-/nx-darwin-arm64-15.9.7.tgz",
-      "integrity": "sha512-aBUgnhlkrgC0vu0fK6eb9Vob7eFnkuknrK+YzTjmLrrZwj7FGNAeyGXSlyo1dVokIzjVKjJg2saZZ0WQbfuCJw==",
-      "cpu": [
-        "arm64"
-      ],
-      "dev": true,
-      "optional": true,
-      "os": [
-        "darwin"
-      ],
-      "engines": {
-        "node": ">= 10"
-      }
-    },
-    "node_modules/@nrwl/nx-darwin-x64": {
-      "version": "15.9.7",
-      "resolved": "https://registry.npmjs.org/@nrwl/nx-darwin-x64/-/nx-darwin-x64-15.9.7.tgz",
-      "integrity": "sha512-L+elVa34jhGf1cmn38Z0sotQatmLovxoASCIw5r1CBZZeJ5Tg7Y9nOwjRiDixZxNN56hPKXm6xl9EKlVHVeKlg==",
-      "cpu": [
-        "x64"
-      ],
-      "dev": true,
-      "optional": true,
-      "os": [
-        "darwin"
-      ],
-      "engines": {
-        "node": ">= 10"
-      }
-    },
-    "node_modules/@nrwl/nx-linux-arm-gnueabihf": {
-      "version": "15.9.7",
-      "resolved": "https://registry.npmjs.org/@nrwl/nx-linux-arm-gnueabihf/-/nx-linux-arm-gnueabihf-15.9.7.tgz",
-      "integrity": "sha512-pqmfqqEUGFu6PmmHKyXyUw1Al0Ki8PSaR0+ndgCAb1qrekVDGDfznJfaqxN0JSLeolPD6+PFtLyXNr9ZyPFlFg==",
-      "cpu": [
-        "arm"
-      ],
-      "dev": true,
-      "optional": true,
-      "os": [
-        "linux"
-      ],
-      "engines": {
-        "node": ">= 10"
-      }
-    },
-    "node_modules/@nrwl/nx-linux-arm64-gnu": {
-      "version": "15.9.7",
-      "resolved": "https://registry.npmjs.org/@nrwl/nx-linux-arm64-gnu/-/nx-linux-arm64-gnu-15.9.7.tgz",
-      "integrity": "sha512-NYOa/eRrqmM+In5g3M0rrPVIS9Z+q6fvwXJYf/KrjOHqqan/KL+2TOfroA30UhcBrwghZvib7O++7gZ2hzwOnA==",
-      "cpu": [
-        "arm64"
-      ],
-      "dev": true,
-      "optional": true,
-      "os": [
-        "linux"
-      ],
-      "engines": {
-        "node": ">= 10"
-      }
-    },
-    "node_modules/@nrwl/nx-linux-arm64-musl": {
-      "version": "15.9.7",
-      "resolved": "https://registry.npmjs.org/@nrwl/nx-linux-arm64-musl/-/nx-linux-arm64-musl-15.9.7.tgz",
-      "integrity": "sha512-zyStqjEcmbvLbejdTOrLUSEdhnxNtdQXlmOuymznCzYUEGRv+4f7OAepD3yRoR0a/57SSORZmmGQB7XHZoYZJA==",
-      "cpu": [
-        "arm64"
-      ],
-      "dev": true,
-      "optional": true,
-      "os": [
-        "linux"
-      ],
-      "engines": {
-        "node": ">= 10"
-      }
-    },
     "node_modules/@nrwl/nx-linux-x64-gnu": {
       "version": "15.9.7",
       "resolved": "https://registry.npmjs.org/@nrwl/nx-linux-x64-gnu/-/nx-linux-x64-gnu-15.9.7.tgz",
@@ -2369,38 +2276,6 @@
       "optional": true,
       "os": [
         "linux"
-      ],
-      "engines": {
-        "node": ">= 10"
-      }
-    },
-    "node_modules/@nrwl/nx-win32-arm64-msvc": {
-      "version": "15.9.7",
-      "resolved": "https://registry.npmjs.org/@nrwl/nx-win32-arm64-msvc/-/nx-win32-arm64-msvc-15.9.7.tgz",
-      "integrity": "sha512-GSQ54hJ5AAnKZb4KP4cmBnJ1oC4ILxnrG1mekxeM65c1RtWg9NpBwZ8E0gU3xNrTv8ZNsBeKi/9UhXBxhsIh8A==",
-      "cpu": [
-        "arm64"
-      ],
-      "dev": true,
-      "optional": true,
-      "os": [
-        "win32"
-      ],
-      "engines": {
-        "node": ">= 10"
-      }
-    },
-    "node_modules/@nrwl/nx-win32-x64-msvc": {
-      "version": "15.9.7",
-      "resolved": "https://registry.npmjs.org/@nrwl/nx-win32-x64-msvc/-/nx-win32-x64-msvc-15.9.7.tgz",
-      "integrity": "sha512-x6URof79RPd8AlapVbPefUD3ynJZpmah3tYaYZ9xZRMXojVtEHV8Qh5vysKXQ1rNYJiiB8Ah6evSKWLbAH60tw==",
-      "cpu": [
-        "x64"
-      ],
-      "dev": true,
-      "optional": true,
-      "os": [
-        "win32"
       ],
       "engines": {
         "node": ">= 10"
@@ -11702,41 +11577,6 @@
         }
       }
     },
-    "@nrwl/nx-darwin-arm64": {
-      "version": "15.9.7",
-      "resolved": "https://registry.npmjs.org/@nrwl/nx-darwin-arm64/-/nx-darwin-arm64-15.9.7.tgz",
-      "integrity": "sha512-aBUgnhlkrgC0vu0fK6eb9Vob7eFnkuknrK+YzTjmLrrZwj7FGNAeyGXSlyo1dVokIzjVKjJg2saZZ0WQbfuCJw==",
-      "dev": true,
-      "optional": true
-    },
-    "@nrwl/nx-darwin-x64": {
-      "version": "15.9.7",
-      "resolved": "https://registry.npmjs.org/@nrwl/nx-darwin-x64/-/nx-darwin-x64-15.9.7.tgz",
-      "integrity": "sha512-L+elVa34jhGf1cmn38Z0sotQatmLovxoASCIw5r1CBZZeJ5Tg7Y9nOwjRiDixZxNN56hPKXm6xl9EKlVHVeKlg==",
-      "dev": true,
-      "optional": true
-    },
-    "@nrwl/nx-linux-arm-gnueabihf": {
-      "version": "15.9.7",
-      "resolved": "https://registry.npmjs.org/@nrwl/nx-linux-arm-gnueabihf/-/nx-linux-arm-gnueabihf-15.9.7.tgz",
-      "integrity": "sha512-pqmfqqEUGFu6PmmHKyXyUw1Al0Ki8PSaR0+ndgCAb1qrekVDGDfznJfaqxN0JSLeolPD6+PFtLyXNr9ZyPFlFg==",
-      "dev": true,
-      "optional": true
-    },
-    "@nrwl/nx-linux-arm64-gnu": {
-      "version": "15.9.7",
-      "resolved": "https://registry.npmjs.org/@nrwl/nx-linux-arm64-gnu/-/nx-linux-arm64-gnu-15.9.7.tgz",
-      "integrity": "sha512-NYOa/eRrqmM+In5g3M0rrPVIS9Z+q6fvwXJYf/KrjOHqqan/KL+2TOfroA30UhcBrwghZvib7O++7gZ2hzwOnA==",
-      "dev": true,
-      "optional": true
-    },
-    "@nrwl/nx-linux-arm64-musl": {
-      "version": "15.9.7",
-      "resolved": "https://registry.npmjs.org/@nrwl/nx-linux-arm64-musl/-/nx-linux-arm64-musl-15.9.7.tgz",
-      "integrity": "sha512-zyStqjEcmbvLbejdTOrLUSEdhnxNtdQXlmOuymznCzYUEGRv+4f7OAepD3yRoR0a/57SSORZmmGQB7XHZoYZJA==",
-      "dev": true,
-      "optional": true
-    },
     "@nrwl/nx-linux-x64-gnu": {
       "version": "15.9.7",
       "resolved": "https://registry.npmjs.org/@nrwl/nx-linux-x64-gnu/-/nx-linux-x64-gnu-15.9.7.tgz",
@@ -11748,20 +11588,6 @@
       "version": "15.9.7",
       "resolved": "https://registry.npmjs.org/@nrwl/nx-linux-x64-musl/-/nx-linux-x64-musl-15.9.7.tgz",
       "integrity": "sha512-extIUThYN94m4Vj4iZggt6hhMZWQSukBCo8pp91JHnDcryBg7SnYmnikwtY1ZAFyyRiNFBLCKNIDFGkKkSrZ9Q==",
-      "dev": true,
-      "optional": true
-    },
-    "@nrwl/nx-win32-arm64-msvc": {
-      "version": "15.9.7",
-      "resolved": "https://registry.npmjs.org/@nrwl/nx-win32-arm64-msvc/-/nx-win32-arm64-msvc-15.9.7.tgz",
-      "integrity": "sha512-GSQ54hJ5AAnKZb4KP4cmBnJ1oC4ILxnrG1mekxeM65c1RtWg9NpBwZ8E0gU3xNrTv8ZNsBeKi/9UhXBxhsIh8A==",
-      "dev": true,
-      "optional": true
-    },
-    "@nrwl/nx-win32-x64-msvc": {
-      "version": "15.9.7",
-      "resolved": "https://registry.npmjs.org/@nrwl/nx-win32-x64-msvc/-/nx-win32-x64-msvc-15.9.7.tgz",
-      "integrity": "sha512-x6URof79RPd8AlapVbPefUD3ynJZpmah3tYaYZ9xZRMXojVtEHV8Qh5vysKXQ1rNYJiiB8Ah6evSKWLbAH60tw==",
       "dev": true,
       "optional": true
     },
