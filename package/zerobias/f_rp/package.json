@@ -28,6 +28,6 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
-    "@zerobias-org/segment-zerobias-t_rvbm": "latest"
+    "@zerobias-org/segment-zerobias-t_rbvm": "latest"
   }
 }

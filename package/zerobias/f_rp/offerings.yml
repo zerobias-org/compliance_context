@@ -2,5 +2,5 @@ classes: []
 products: []
 productComponents: []
 segments:
-  - alias: t_rvbm
+  - alias: t_rbvm
     strength: high
