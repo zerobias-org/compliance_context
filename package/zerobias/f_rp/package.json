@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/compliance_context-zerobias-f_rp",
-  "version": "1.0.0-rc.0",
+  "version": "1.0.0",
   "description": "Risk Prioritization (RP) compliance context artifact",
   "author": "cscarola@zerobias.com",
   "license": "ISC",
