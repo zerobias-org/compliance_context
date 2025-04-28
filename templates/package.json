@@ -11,15 +11,15 @@
   },
   "scripts": {
     "nx:publish": "../../../scripts/publish.sh",
-    "nx:prepublish": "../../../scripts/prepublish.sh",
+    "prepublishtest": "../../../scripts/prepublish.sh",
+    "correct:deps": "ts-node ../../../scripts/correctDeps.ts",
     "validate": "ts-node ../../../scripts/validate.ts"
   },
   "publishConfig": {
     "registry": "https://pkg.zerobias.org/"
   },
   "files": [
-    "index.yml",
-    "logo.svg"
+    "index.yml"
   ],
   "auditmation": {
     "dataloader-version": "3.29.26",

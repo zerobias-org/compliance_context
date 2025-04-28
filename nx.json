@@ -1,4 +1,5 @@
 {
+  "parallel": 5,
   "affected": {
     "defaultBase": "main"
   },
