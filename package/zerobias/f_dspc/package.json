@@ -11,7 +11,8 @@
   },
   "scripts": {
     "nx:publish": "../../../scripts/publish.sh",
-    "nx:prepublish": "../../../scripts/prepublish.sh",
+    "prepublishtest": "../../../scripts/prepublish.sh",
+    "correct:deps": "ts-node ../../../scripts/correctDeps.ts",
     "validate": "ts-node ../../../scripts/validate.ts"
   },
   "publishConfig": {
@@ -28,6 +29,6 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
-    "@zerobias-org/segment-zerobias-t_cs": "^1.0.0-rc.0"
+    "@zerobias-org/segment-zerobias-t_cs": "latest"
   }
 }

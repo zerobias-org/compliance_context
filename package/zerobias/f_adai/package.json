@@ -11,7 +11,8 @@
   },
   "scripts": {
     "nx:publish": "../../../scripts/publish.sh",
-    "nx:prepublish": "../../../scripts/prepublish.sh",
+    "prepublishtest": "../../../scripts/prepublish.sh",
+    "correct:deps": "ts-node ../../../scripts/correctDeps.ts",
     "validate": "ts-node ../../../scripts/validate.ts"
   },
   "publishConfig": {
@@ -28,8 +29,8 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
-    "@zerobias-org/segment-zerobias-t_caasm": "^1.0.0-rc.0",
-    "@zerobias-org/segment-zerobias-t_cvm": "^1.0.0-rc.0",
-    "@zerobias-org/segment-zerobias-t_itam": "^1.0.0-rc.0"
+    "@zerobias-org/segment-zerobias-t_caasm": "latest",
+    "@zerobias-org/segment-zerobias-t_cvm": "latest",
+    "@zerobias-org/segment-zerobias-t_itam": "latest"
   }
 }

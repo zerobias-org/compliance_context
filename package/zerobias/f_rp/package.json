@@ -29,9 +29,9 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
-    "@zerobias-org/segment-zerobias-t_rbvm": "^1.0.0-rc.0",
-    "@zerobias-org/segment-zerobias-t_apa": "^1.0.0-rc.0",
-    "@zerobias-org/segment-zerobias-t_cvm": "^1.0.0-rc.0",
-    "@zerobias-org/segment-zerobias-t_cspm": "^1.0.0-rc.0"
+    "@zerobias-org/segment-zerobias-t_rbvm": "latest",
+    "@zerobias-org/segment-zerobias-t_apa": "latest",
+    "@zerobias-org/segment-zerobias-t_cvm": "latest",
+    "@zerobias-org/segment-zerobias-t_cspm": "latest"
   }
 }
