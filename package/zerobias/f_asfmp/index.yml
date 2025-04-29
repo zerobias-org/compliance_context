@@ -1,6 +1,6 @@
 id: b91dc6c1-010c-413e-963c-1ed9b51a99a6
 name: Automated Scanning for missing patches
-description: 
+description: Automated Scanning for missing patches
 imageUrl: https://cdn.auditmation.io/logos/zerobias-f_asfmp-compliance_context.svg
 code: f_asfmp
 externalId: Automated Scanning for missing patches

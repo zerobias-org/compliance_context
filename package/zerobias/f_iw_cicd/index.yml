@@ -1,6 +1,6 @@
 id: 6e46841f-8f82-49b4-948b-d220f3a03ae4
 name: Integration with CI/CD Tool
-description: Imported compliance feature: Integration with CI/CD Tool
+description: Integration with CI/CD Tool
 imageUrl: https://cdn.auditmation.io/logos/zerobias-f_iw_cicd-compliance_context.svg
 code: f_iw_cicd
 externalId: Integration with CI/CD Tool

@@ -1,6 +1,6 @@
 id: de9063a3-8455-48e1-87c1-fe30cc568970
 name: Two-Factor Authentication (2FA)
-description: Imported compliance feature: Two-Factor Authentication (2FA)
+description: Two-Factor Authentication (2FA)
 imageUrl: https://cdn.auditmation.io/logos/zerobias-f_2fa-compliance_context.svg
 code: f_2fa
 externalId: Two-Factor Authentication
