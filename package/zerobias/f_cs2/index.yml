@@ -1,0 +1,10 @@
+id: 274ad0a2-27f2-4168-94bb-0a672f9691a3
+name: Code Scanning
+description: Automatically analyze source code to identify potential security vulnerabilities, coding errors, and other issues such potential data leaks or violations of privacy regulations (aka data privacy risks).
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_cs2-compliance_context.svg
+code: f_cs2
+externalId: Code Scanning
+tags: []
+aliases: 
+  - Secure Code Scanning
+  - Code Review

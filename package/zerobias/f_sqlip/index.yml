@@ -1,0 +1,8 @@
+id: 2a230d67-bbc0-4d13-bb97-f6a7a4b264dd
+name: SQL Injection Prevention
+description: Detect and block SQL injection attacks by monitoring database interactions and identifying malicious queries.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_sqlip-compliance_context.svg
+code: f_sqlip
+externalId: SQL Injection Prevention
+tags: []
+aliases: []

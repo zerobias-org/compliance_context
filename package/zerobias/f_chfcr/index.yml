@@ -1,0 +1,8 @@
+id: 6d73afa5-63b9-467c-b50a-65410b7ba9b2
+name: Centralized Hosting (for Code Repositories)
+description: Host project repositories in a cloud-based location and store all their files with their complete history of changes. Provide a single source of truth for collaboration among distributed teams.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_chfcr-compliance_context.svg
+code: f_chfcr
+externalId: Centralized Hosting
+tags: []
+aliases: []

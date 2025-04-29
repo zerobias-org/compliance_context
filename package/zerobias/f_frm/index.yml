@@ -1,0 +1,8 @@
+id: fc1163cf-5f85-4da4-a741-17096eda3b21
+name: Fix risky misconfigurations
+description: Automatically correct the configuration of assets.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_frm-compliance_context.svg
+code: f_frm
+externalId: Fix risky misconfigurations
+tags: []
+aliases: []

@@ -1,0 +1,8 @@
+id: 5a218296-af16-4470-896e-e6872b455af4
+name: Rootkit Detection
+description: Detect and block rootkit attacks by monitoring system processes and identifying malicious activity.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_rd-compliance_context.svg
+code: f_rd
+externalId: Rootkit Detection
+tags: []
+aliases: []

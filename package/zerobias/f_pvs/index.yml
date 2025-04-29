@@ -1,0 +1,8 @@
+id: 602a4933-60cd-44ac-a67a-befb0a339053
+name: Patch vulnerable systems
+description: Automatically apply patches to vulnerable systems to prevent an attack.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_pvs-compliance_context.svg
+code: f_pvs
+externalId: Patch vulnerable systems
+tags: []
+aliases: []

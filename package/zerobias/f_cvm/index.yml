@@ -1,0 +1,8 @@
+id: 8efba876-7c84-4646-ab5e-d298a3c9b027
+name: Centralized Vulnerability Management
+description: Aggregate, deduplicate, automatically correlate and prioritize analysis results from multiple tools and tests in a single central hub.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_cvm-compliance_context.svg
+code: f_cvm
+externalId: Centralized Vulnerability Management
+tags: []
+aliases: []

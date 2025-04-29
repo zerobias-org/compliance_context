@@ -1,0 +1,8 @@
+id: 78f1b126-091d-40a5-91cb-9a66f3964267
+name: Vulnerability Assessment
+description: Track and help remediate vulnerabilities for all inventoried assets in the managed environments.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_va-compliance_context.svg
+code: f_va
+externalId: Vulnerability Assessment
+tags: []
+aliases: []

@@ -1,0 +1,9 @@
+id: bcab057a-7715-4c25-94e0-844337cd838c
+name: Vulnerability Scanning
+description: Regularly/continuously scan all inventoried assets for known vulnerabilities across all attack vectors.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_vs-compliance_context.svg
+code: f_vs
+externalId: Vulnerability Scanning
+tags: []
+aliases: 
+  - Automated Vulnerability Scanning

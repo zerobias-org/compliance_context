@@ -1,0 +1,9 @@
+id: f6222c3b-cc82-4eee-bddc-60d1927dc0ef
+name: Configuration Auditing
+description: Continuously monitor and analyze the security configurations of cloud resources to identify and rectify any deviations from established security policies and configurations.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_ca-compliance_context.svg
+code: f_ca
+externalId: Configuration Auditing
+tags: []
+aliases: 
+  - Misconfiguration Detection
