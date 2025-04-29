@@ -1,0 +1,8 @@
+id: ed0c4274-bb10-4799-b510-ffb94fdaafe6
+name: Remove excessive permissions
+description: Automatically adjust access control to digital resources, such as data, applications, and systems.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_rep-compliance_context.svg
+code: f_rep
+externalId: Remove excessive permissions
+tags: []
+aliases: []

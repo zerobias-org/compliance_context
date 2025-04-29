@@ -1,0 +1,11 @@
+id: f17a2966-6482-4824-9ffc-f387e71c3dd2
+name: Attack Scenario Simulation
+description: Mimic real-world cyberattacks within a controlled environment to assess the effectiveness of an organization's security defenses and identify vulnerabilities.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_atckss-compliance_context.svg
+code: f_atckss
+externalId: Attack Scenario Simulation
+tags: []
+aliases: 
+  - Cyber Attack Simulation
+  - Red Teaming
+  - Breach and Attack Simulation (BAS)

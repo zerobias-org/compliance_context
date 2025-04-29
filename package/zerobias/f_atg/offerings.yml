@@ -1,0 +1,8 @@
+classes: []
+products: []
+productComponents: []
+segments: 
+  - alias: t_e2etest
+    strength: high
+  - alias: t_ptest
+    strength: high

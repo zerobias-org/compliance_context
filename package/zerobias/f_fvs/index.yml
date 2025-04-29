@@ -1,0 +1,8 @@
+id: ade2e3c7-7585-49fa-a3e3-cee4b3f7e472
+name: Federated Vulnerability Scanning
+description: Schedule automated scans for all the security tools that an organization uses.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_fvs-compliance_context.svg
+code: f_fvs
+externalId: Federated Vulnerability Scanning
+tags: []
+aliases: []

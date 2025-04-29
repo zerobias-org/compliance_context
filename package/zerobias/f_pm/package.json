@@ -1,0 +1,33 @@
+{
+  "name": "@zerobias-org/compliance_context-zerobias-f_pm",
+  "version": "1.0.0-rc.0",
+  "description": "Patch Management compliance_context artifact",
+  "author": "opignault@zerobias.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zerobias-org/compliance_context.git",
+    "directory": "package/zerobias/f_pm/"
+  },
+  "scripts": {
+    "nx:publish": "../../../scripts/publish.sh",
+    "nx:prepublish": "../../../scripts/prepublish.sh",
+    "validate": "ts-node ../../../scripts/validate.ts"
+  },
+  "publishConfig": {
+    "registry": "https://pkg.zerobias.org/"
+  },
+  "files": [
+    "index.yml",
+    "offerings.yml"
+  ],
+  "auditmation": {
+    "dataloader-version": "3.4.5",
+    "import-artifact": "compliance_context",
+    "package": "zerobias.f_pm.compliance_context"
+  },
+  "dependencies": {
+    "@auditlogic/vendor-zerobias": "latest",
+    "@zerobias-org/segment-zerobias-t_cvm": "^1.0.0-rc.0"
+  }
+}

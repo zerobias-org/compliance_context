@@ -1,0 +1,8 @@
+id: 24fbc906-54b4-4427-8696-55d6beb6ca9f
+name: Image Signing and Verification
+description: Implement image signing and verification to ensure the integrity of container or virtual machine images.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_isav-compliance_context.svg
+code: f_isav
+externalId: Image Signing and Verification
+tags: []
+aliases: []

@@ -1,11 +1,11 @@
-id: 8c75c6c6-4caf-4647-8e65-b4b0afb84bb2
+id: 36c38c18-b6d6-4879-9136-adf56f690f64
 name: Risk Prioritization
 description: Prioritize security risks (e.g. vulnerabilities) based on likelihood of exploitation, potential impact on the business, and severity ratings (e.g., CVSS).
 imageUrl: https://cdn.auditmation.io/logos/zerobias-f_rp-compliance_context.svg
 code: f_rp
-externalId: Risk Prioritization (RP)
+externalId: Risk Prioritization
 tags: []
-aliases:
+aliases: 
   - Automated Risk Assessment
   - Security Risk Assessment
   - Contextualized Risk Assessment

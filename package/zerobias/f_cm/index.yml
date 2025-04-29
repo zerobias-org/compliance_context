@@ -1,0 +1,8 @@
+id: 10996893-942f-4412-9447-92f9970e28cc
+name: Configuration Management (CMDBs)
+description: Identifying, control, and manage changes to IT assets, known as Configuration Items (CIs). Ensure that these assets, and their relationships, are accurately documented and tracked throughout their lifecycle.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_cm-compliance_context.svg
+code: f_cm
+externalId: Configuration Management
+tags: []
+aliases: []
