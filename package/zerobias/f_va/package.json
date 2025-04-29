@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/compliance_context-zerobias-f_va",
-  "version": "1.0.0-rc.0",
+  "version": "1.0.0-rc.1",
   "description": "Vulnerability Assessment compliance_context artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
-    "@zerobias-org/segment-zerobias-t_rbvm": "latest",
-    "@zerobias-org/segment-zerobias-t_cvm": "latest"
+    "@zerobias-org/segment-zerobias-t_cvm": "latest",
+    "@zerobias-org/segment-zerobias-t_rbvm": "latest"
   }
 }

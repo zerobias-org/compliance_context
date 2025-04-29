@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/compliance_context-zerobias-f_rp",
-  "version": "1.0.0",
+  "version": "1.1.0-rc.0",
   "description": "Risk Prioritization compliance_context artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -29,9 +29,9 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
-    "@zerobias-org/segment-zerobias-t_rbvm": "latest",
     "@zerobias-org/segment-zerobias-t_apa": "latest",
+    "@zerobias-org/segment-zerobias-t_cspm": "latest",
     "@zerobias-org/segment-zerobias-t_cvm": "latest",
-    "@zerobias-org/segment-zerobias-t_cspm": "latest"
+    "@zerobias-org/segment-zerobias-t_rbvm": "latest"
   }
 }

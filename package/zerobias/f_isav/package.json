@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/compliance_context-zerobias-f_isav",
-  "version": "1.0.0-rc.0",
+  "version": "1.0.0-rc.1",
   "description": "Image Signing and Verification compliance_context artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

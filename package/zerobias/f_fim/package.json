@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/compliance_context-zerobias-f_fim",
-  "version": "1.0.0-rc.0",
+  "version": "1.0.0-rc.1",
   "description": "File Integrity Monitoring (FIM) compliance_context artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/compliance_context-zerobias-f_uap",
-  "version": "1.0.0-rc.0",
+  "version": "1.0.0-rc.1",
   "description": "Unauthorized Access Prevention compliance_context artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

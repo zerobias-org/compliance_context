@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/compliance_context-zerobias-f_spe",
-  "version": "1.0.0-rc.0",
+  "version": "1.0.0-rc.1",
   "description": "Security Policy Enforcement compliance_context artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
-    "@zerobias-org/segment-zerobias-t_mdm": "latest",
-    "@zerobias-org/segment-zerobias-t_cspm": "latest"
+    "@zerobias-org/segment-zerobias-t_cspm": "latest",
+    "@zerobias-org/segment-zerobias-t_mdm": "latest"
   }
 }
