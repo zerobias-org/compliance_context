@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/compliance_context-zerobias-f_iw_vcs",
-  "version": "1.0.0-rc.2",
+  "version": "1.0.0",
   "description": "Integration with Version Control System compliance_context artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

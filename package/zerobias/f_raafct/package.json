@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/compliance_context-zerobias-f_raafct",
-  "version": "1.0.0-rc.2",
+  "version": "1.0.0",
   "description": "Reporting and Analytics (for Code Testing) compliance_context artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

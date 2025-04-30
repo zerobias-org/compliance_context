@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/compliance_context-zerobias-f_cvwd",
-  "version": "1.0.0-rc.2",
+  "version": "1.0.0",
   "description": "Centralized View with Dashboards compliance_context artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

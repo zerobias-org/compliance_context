@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/compliance_context-zerobias-f_ab",
-  "version": "1.0.0-rc.2",
+  "version": "1.0.0",
   "description": "Automated Builds compliance_context artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",

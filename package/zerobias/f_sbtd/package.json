@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/compliance_context-zerobias-f_sbtd",
-  "version": "1.0.0-rc.2",
+  "version": "1.0.0",
   "description": "Signature-based Threat Detection compliance_context artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
