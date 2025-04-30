@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/compliance_context-zerobias-f_shoc",
-  "version": "1.0.0-rc.1",
+  "version": "1.0.0-rc.2",
   "description": "Secure handling of credentials compliance_context artifact",
   "author": "opignault@zerobias.com",
   "license": "ISC",
