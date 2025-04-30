@@ -1,0 +1,9 @@
+id: 93fe7cca-2ad6-4ee4-b8f4-173808b01aae
+name: Network Traffic Analysis
+description: Detect unusual or abnormal network traffic patterns that deviate from established baselines (anomaly-based method or hybrid method) to identify malicious network activity or lateral movement of threats.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_nta-compliance_context.svg
+code: f_nta
+externalId: Network Traffic Analysis
+tags: []
+aliases: 
+  - Network Traffic Monitoring

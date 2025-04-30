@@ -1,0 +1,8 @@
+id: 60e1805d-b703-4388-87fc-6b44adab9b90
+name: Cloud Asset Discovery and Inventory
+description: Automatically discover and inventory all cloud assets, including virtual machines, storage buckets, databases, etc.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_cadai-compliance_context.svg
+code: f_cadai
+externalId: Cloud Asset Discovery and Inventory
+tags: []
+aliases: []

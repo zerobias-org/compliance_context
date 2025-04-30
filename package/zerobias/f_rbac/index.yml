@@ -1,0 +1,9 @@
+id: f3c47166-ddbc-4b7e-8a8b-ac5c07abc32b
+name: Role-based access control (RBAC)
+description: Grant permissions based on a user's role within an organization, to enforce the principle of least privilege, ensuring users only have access to the resources they need for their role, minimizing the risk of data breaches and unauthorized access.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_rbac-compliance_context.svg
+code: f_rbac
+externalId: Role-based access control
+tags: []
+aliases: 
+  - Role-based Security

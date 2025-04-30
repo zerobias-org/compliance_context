@@ -1,0 +1,8 @@
+id: 5addbc72-03ad-4246-ae55-35572365579b
+name: Cross-Site Scripting (XSS) Prevention
+description: Prevent XSS attacks by monitoring user input and output, and identifying malicious scripts.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_xssp-compliance_context.svg
+code: f_xssp
+externalId: Cross-Site Scripting
+tags: []
+aliases: []

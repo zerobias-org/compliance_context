@@ -1,0 +1,10 @@
+classes: []
+products: []
+productComponents: []
+segments: 
+  - alias: t_rbvm
+    strength: high
+  - alias: t_cvm
+    strength: high
+  - alias: t_cs
+    strength: high

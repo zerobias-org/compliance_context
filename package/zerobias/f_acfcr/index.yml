@@ -1,0 +1,8 @@
+id: 8569f934-e703-49bf-a081-9c43ecdbd962
+name: Access Control (for Code Repositories)
+description: Manage who can access, view, modify, and administer project repositories based on user roles, team-based permissions, and branch-level restrictions. Protect sensitive code and control the development flow by repository.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_acfcr-compliance_context.svg
+code: f_acfcr
+externalId: Access Control
+tags: []
+aliases: []

@@ -1,0 +1,8 @@
+id: 06b3fe98-5176-4bb3-8a04-5f885960a8ff
+name: Secure Registries
+description: Secure registries (for container or virtual machine images) against malicious access, using strong authentication and authorization.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_sr-compliance_context.svg
+code: f_sr
+externalId: Secure Registries
+tags: []
+aliases: []

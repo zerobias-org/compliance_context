@@ -1,0 +1,8 @@
+classes: []
+products: []
+productComponents: []
+segments: 
+  - alias: t_vchp
+    strength: high
+  - alias: t_cicd
+    strength: high

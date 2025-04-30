@@ -1,0 +1,8 @@
+id: a9dd7472-45bf-4828-8afa-689560a62b90
+name: Container Firewalls
+description: Use container firewalls to control network traffic to and from containers.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_cfw-compliance_context.svg
+code: f_cfw
+externalId: Container Firewalls
+tags: []
+aliases: []

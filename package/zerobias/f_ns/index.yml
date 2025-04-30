@@ -1,0 +1,8 @@
+id: 2b0a280f-0e0d-4d6f-b81c-458db7e01d32
+name: Network Segmentation
+description: Segment (container) networks to isolate applications and limit the impact of potential breaches.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_ns-compliance_context.svg
+code: f_ns
+externalId: Network Segmentation
+tags: []
+aliases: []

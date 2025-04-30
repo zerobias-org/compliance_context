@@ -1,0 +1,8 @@
+id: 186afecd-041b-48ea-b5bf-103cc2deed6a
+name: Incident Response
+description: Analyze security incidents (scope, impact, root cause) and respond to them (Containment, Eradication, and Recovery).
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_ir-compliance_context.svg
+code: f_ir
+externalId: Incident Response
+tags: []
+aliases: []

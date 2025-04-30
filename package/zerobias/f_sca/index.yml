@@ -1,0 +1,10 @@
+id: 0e94a92a-46f7-4920-b241-cf51ca01a19f
+name: Static Code Analysis
+description: Scan static code and artifacts for potential vulnerabilities and misconfigurations before they are deployed.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_sca-compliance_context.svg
+code: f_sca
+externalId: Static Code Analysis
+tags: []
+aliases: 
+  - Artifact Scanning
+  - Early Vulnerability Detection

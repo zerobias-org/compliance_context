@@ -1,8 +1,8 @@
 {
   "name": "@zerobias-org/compliance_context-zerobias-f_rp",
-  "version": "1.0.0",
-  "description": "Risk Prioritization (RP) compliance context artifact",
-  "author": "cscarola@zerobias.com",
+  "version": "1.1.0-rc.1",
+  "description": "Risk Prioritization compliance_context artifact",
+  "author": "opignault@zerobias.com",
   "license": "ISC",
   "repository": {
     "type": "git",
@@ -29,6 +29,9 @@
   },
   "dependencies": {
     "@auditlogic/vendor-zerobias": "latest",
+    "@zerobias-org/segment-zerobias-t_apa": "latest",
+    "@zerobias-org/segment-zerobias-t_cspm": "latest",
+    "@zerobias-org/segment-zerobias-t_cvm": "latest",
     "@zerobias-org/segment-zerobias-t_rbvm": "latest"
   }
 }

@@ -1,6 +1,12 @@
 classes: []
 products: []
 productComponents: []
-segments:
+segments: 
   - alias: t_rbvm
+    strength: high
+  - alias: t_apa
+    strength: high
+  - alias: t_cvm
+    strength: high
+  - alias: t_cspm
     strength: high

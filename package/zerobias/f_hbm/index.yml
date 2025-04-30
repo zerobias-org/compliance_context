@@ -1,0 +1,8 @@
+id: 60b68f21-0993-407b-8203-3d2f5838f57f
+name: Host-Based Monitoring
+description: Monitor the characteristics of individual host systems (like servers, workstations, or network devices) and the events occurring within each host to identify and stop suspicious activity.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_hbm-compliance_context.svg
+code: f_hbm
+externalId: Host-Based Monitoring
+tags: []
+aliases: []
