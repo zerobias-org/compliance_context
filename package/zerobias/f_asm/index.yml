@@ -1,0 +1,8 @@
+id: e0f58eb8-715e-47d7-be65-79c0b3925e5e
+name: Attack Surface Mapping
+description: Identify, catalog, and analyze all potential entry points or vulnerabilities within an organization's digital environment that a malicious actor could exploit.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_asm-compliance_context.svg
+code: f_asm
+externalId: Attack Surface Mapping
+tags: []
+aliases: []

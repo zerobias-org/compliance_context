@@ -1,0 +1,8 @@
+id: 0f8708cf-11b8-4b02-85c3-1a6b5c5abde5
+name: Zero-Day Protection
+description: Protect against zero-day exploits and other unknown threats by analyzing application behavior and identifying anomalies.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_zdp-compliance_context.svg
+code: f_zdp
+externalId: Zero-Day Protection
+tags: []
+aliases: []

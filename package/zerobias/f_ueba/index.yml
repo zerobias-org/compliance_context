@@ -1,0 +1,8 @@
+id: 7464db87-0d1c-4979-8387-2868c3c66997
+name: User and Entity Behavioral Analysis (UEBA)
+description: Use machine learning to detect anomalies in the behavior of users and devices connected to a corporate network (e.g., insider threat detection).
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_ueba-compliance_context.svg
+code: f_ueba
+externalId: User and Entity Behavioral Analysis
+tags: []
+aliases: []

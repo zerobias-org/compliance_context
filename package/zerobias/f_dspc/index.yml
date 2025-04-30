@@ -1,0 +1,8 @@
+id: 2c72e4d2-962e-4d65-92dc-5b29e13bad31
+name: Deployment Security Policy Checks
+description: Implement deployment security policy checks to prevent non-compliant containers or virtual machines from being deployed.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_dspc-compliance_context.svg
+code: f_dspc
+externalId: Deployment Security Policy Checks
+tags: []
+aliases: []

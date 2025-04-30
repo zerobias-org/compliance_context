@@ -1,0 +1,8 @@
+id: 92b226c4-0b76-489c-8118-63120547cdb7
+name: Secret Scanning
+description: Run automated scans on code repositories, execution pipelines, configuration files, commits, and other data sources to prevent potential security threats posed by exposed secrets.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_ss-compliance_context.svg
+code: f_ss
+externalId: Secret Scanning
+tags: []
+aliases: []

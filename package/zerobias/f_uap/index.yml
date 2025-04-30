@@ -1,0 +1,8 @@
+id: 624577fd-8edb-41aa-be24-1246070f7061
+name: Unauthorized Access Prevention
+description: Prevent unauthorized access to sensitive data and applications by monitoring user access patterns and identifying suspicious activity.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_uap-compliance_context.svg
+code: f_uap
+externalId: Unauthorized Access Prevention
+tags: []
+aliases: []

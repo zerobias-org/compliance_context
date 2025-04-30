@@ -1,0 +1,8 @@
+id: 4bf8c40c-9816-435a-9a60-94115d585941
+name: Signature-based Threat Detection
+description: Identify threats based on known attack patterns or signatures.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_sbtd-compliance_context.svg
+code: f_sbtd
+externalId: Signature-based Threat Detection
+tags: []
+aliases: []

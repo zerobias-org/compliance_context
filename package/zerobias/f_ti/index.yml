@@ -1,0 +1,10 @@
+id: 7ca4aa8d-dffd-4fcc-ae60-b9a340126a0c
+name: Threat Intelligence
+description: Provide actionable information about emerging or existing threats. This intelligence encompasses detailed analyses of threat actors, their tactics, techniques, and procedures (TTPs), and indicators of compromise (IOCs).
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_ti-compliance_context.svg
+code: f_ti
+externalId: Threat Intelligence
+tags: []
+aliases: 
+  - Threat Intelligence Feed
+  - Threat Intelligence Integration

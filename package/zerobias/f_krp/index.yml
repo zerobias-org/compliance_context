@@ -1,0 +1,8 @@
+id: 6fc7fb49-6008-4ff0-8b93-e06ba424ff0c
+name: Kill running programs
+description: Terminate running processes related to a malicious script to address a security threat.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_krp-compliance_context.svg
+code: f_krp
+externalId: Kill running programs
+tags: []
+aliases: []

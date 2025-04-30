@@ -1,0 +1,9 @@
+id: 855a76a5-208c-4e7e-9b64-e711c2a06a1b
+name: Consistent Security
+description: Ensure that infrastructure is deployed (re-deployed) with consistent security configurations across all environments, reducing the risk of configuration drift and security gaps.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_cs-compliance_context.svg
+code: f_cs
+externalId: Consistent Security
+tags: []
+aliases: 
+  - One-Way Deployment

@@ -1,0 +1,8 @@
+id: db6c3ee0-9aba-4235-805b-1d38b042cb57
+name: File Integrity Monitoring (FIM)
+description: Monitor and detect changes to critical files and system configurations.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_fim-compliance_context.svg
+code: f_fim
+externalId: File Integrity Monitoring
+tags: []
+aliases: []

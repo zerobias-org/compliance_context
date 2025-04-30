@@ -1,0 +1,9 @@
+id: b5b31d01-8dd0-4ce1-bdc4-c5d322564306
+name: Runtime Behavior Pattern Analysis
+description: Analyze runtime behavior patterns to identify anomalies and vulnerabilities.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_rbpa-compliance_context.svg
+code: f_rbpa
+externalId: Runtime Behavior Pattern Analysis
+tags: []
+aliases: 
+  - Behavioral Analysis

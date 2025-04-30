@@ -1,0 +1,8 @@
+id: a5554cad-fe1f-41ae-b610-d9c58376a400
+name: Security Policy Enforcement
+description: Enforce security policies and best practices (passwords, encryption), preventing unauthorized access and configuration changes.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_spe-compliance_context.svg
+code: f_spe
+externalId: Security Policy Enforcement
+tags: []
+aliases: []

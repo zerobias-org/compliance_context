@@ -1,0 +1,8 @@
+id: 89fcc238-694d-4d0e-94f1-1d88e96c1b6b
+name: Compliance Mapping
+description: Understand which CSPM alerts are directly related to compliance violations, to allow for targeted remediation efforts and to provide evidence for audits and compliance assessments.
+imageUrl: https://cdn.auditmation.io/logos/zerobias-f_cm3-compliance_context.svg
+code: f_cm3
+externalId: Compliance Mapping
+tags: []
+aliases: []
