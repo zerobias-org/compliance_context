@@ -1,12 +1,12 @@
 {
   "name": "@zerobias-org/compliance_context_type-zerobias",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "lockfileVersion": 2,
   "requires": true,
   "packages": {
     "": {
       "name": "@zerobias-org/compliance_context_type-zerobias",
-      "version": "1.0.15",
+      "version": "1.0.16",
       "license": "ISC",
       "dependencies": {
         "@auditlogic/vendor-zerobias": "^1.0.0"
