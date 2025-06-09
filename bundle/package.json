@@ -1,6 +1,6 @@
 {
   "name": "@zerobias-org/compliance_context-bundle",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "All installable compliance_contexts",
   "author": "team@auditmation.io",
   "license": "ISC",
@@ -18,6 +18,7 @@
     "dataloader-version": "0.5.4"
   },
   "dependencies": {
+    "@zerobias-org/compliance_context_type-zerobias": "1.0.16",
     "@zerobias-org/compliance_context-zerobias-f_2fa": "1.0.0",
     "@zerobias-org/compliance_context-zerobias-f_aap": "1.0.0",
     "@zerobias-org/compliance_context-zerobias-f_aat": "1.0.0",
