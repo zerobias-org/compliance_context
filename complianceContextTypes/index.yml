@@ -1,0 +1,49 @@
+complianceContextTypes:
+  - code: cybersecurity
+    description: Cybersecurity
+  - code: physical_security
+    description: Physical Security
+  - code: safety
+    description: Safety
+  - code: training
+    description: Training
+  - code: financial
+    description: Financial
+  - code: fiduciary
+    description: Fiduciary
+  - code: monitoring
+    description: Monitoring
+  - code: environmental
+    description: Environmental
+  - code: esg
+    description: ESG
+  - code: ai
+    description: Artificial Intelligence
+  - code: performance
+    description: Performance
+  - code: availability
+    description: Availability
+  - code: privacy
+    description: Privacy
+  - code: transparency
+    description: Transparency
+  - code: quality
+    description: Quality
+  - code: durability
+    description: Durability
+  - code: compatibility
+    description: Compatibility
+  - code: interoperability
+    description: Intelligencenteroperability
+  - code: reporting
+    description: Reporting
+  - code: corporate_governance
+    description: Corporate Governance
+  - code: data_governance
+    description: Data Governance
+  - code: statutory
+    description: Statutory
+  - code: clinical
+    description: Clinical
+  - code: health
+    description: Health

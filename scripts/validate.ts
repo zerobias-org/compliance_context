@@ -4,6 +4,8 @@ import path from 'path';
 import yaml from 'yaml';
 import { UUID, URL } from '@auditmation/types-core-js';
 
+const complianceContextTypes: string[] = [];
+
 function isKnownFileType(filename: string): boolean {
   return (filename.toLowerCase().endsWith('.yml') || filename.toLowerCase().endsWith('.json'));
 }
@@ -105,6 +107,23 @@ async function processIndexYml(indexFile: Record<string, any>): Promise<string> 
       throw new Error('aliases in index.yml needs to be a string[]');
     }
   }
+
+  check = indexFile.complianceContextTypes !== undefined && indexFile.complianceContextTypes !== null ? indexFile.complianceContextTypes : [];
+  if (!Array.isArray(check)) {
+    throw new Error('complianceContextTypes in index.yml needs to be an array');
+  }
+
+  for (const complianceContextType of check) {
+    if (typeof complianceContextType !== 'string') {
+      throw new Error('complianceContextTypes in index.yml needs to be a string[]');
+    }
+
+    if (!complianceContextTypes.includes(complianceContextType)) {
+      throw new Error(
+        `complianceContextType ${complianceContextType} not a valid compliance context type - {${Object.keys(complianceContextTypes).join(' | ')}`
+      );
+    }
+  }
  
   return code;
 }
@@ -167,6 +186,11 @@ async function processArtifact(directory: string) {
 
 (async () => {
   try {
+    const complianceContextTypesFile = (await fs.readFile(path.join(__dirname, '../complianceContextTypes/index.yml'))).toString();
+    const complianceContextTypesData = yaml.parse(complianceContextTypesFile);
+    complianceContextTypesData.complianceContextTypes
+      .forEach((complianceContextType: any) => complianceContextTypes.push(complianceContextType.name));
+
     const directory = './';
     await processArtifact(directory);
     console.log('Validation of artifact completed successfully.');

@@ -1,6 +1,7 @@
 {
   "packages": [
-    "package/**"
+    "package/**",
+    "complianceContextTypes"
   ],
   "command": {
     "publish": {
